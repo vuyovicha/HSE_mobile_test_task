@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstStage</string>
+    <string name="input_value_text">Amount in base currency:</string>
+    <string name="output_amount_text">Converted amount: </string>
+    <string name="amount_in_dollars">-</string>
+    <string name="convert_button_text">CONVERT</string>
+    <string name="no_amount_toast">You have to input a value first!</string>
+    <string name="same_currencies_toast">Converting to the same currency is not possible!!</string>
+    <string name="select_currencies_text">Select currencies:</string>
+    <string name="from_text">From:</string>
+    <string name="to_text">To:</string>
+</resources>
